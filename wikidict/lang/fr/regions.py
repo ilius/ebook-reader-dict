@@ -215,7 +215,6 @@ regions = {
     "Limousin": "Limousin",
     "Lituanie": "Lituanie",
     "Loire-Atlantique": "Loire-Atlantique",
-    "Loiret": "Loiret",
     "Lorraine": "Lorraine",
     "Louisiane": "Louisiane",
     "Luxembourg": "Luxembourg",
@@ -255,7 +254,6 @@ regions = {
     "Montréal": "Montréal",
     "Montsoreau": "Montsoreau",
     "Monténégro": "Monténégro",
-    "Moselle": "Moselle",
     "Munster": "Munster",
     "NE": "Niger",
     "NL": "Pays-Bas",
@@ -348,6 +346,7 @@ regions = {
     "Salvador": "Salvador",
     "San Cataldo": "San Cataldo",
     "San Fratello": "San Fratello",
+    "Santo Stefano Quisquina": "Santo Stefano Quisquina",
     "Sarthe": "Sarthe",
     "Saumur": "Saumur",
     "Savoie": "Savoie",
@@ -430,7 +429,7 @@ regions = {
     "Île-de-France": "Île-de-France",
     "Îles d’Aran": "Îles d'Aran",
     "Îles-de-la-Madeleine": "Îles-de-la-Madeleine",
-}  # 425
+}  # 424
 # END
 
 # handled differently

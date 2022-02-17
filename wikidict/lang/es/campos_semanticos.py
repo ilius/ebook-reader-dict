@@ -5,22 +5,13 @@ Auto-generated with `python -m scripts`.
 
 # START
 campos_semanticos = {
-    "Aeronáutica": "Aeronáutica",
-    "Agricultura": "Agricultura",
-    "Ajedrez": "Ajedrez",
-    "Alpinismo": "Alpinismo",
-    "Alquimia": "Alquimia",
-    "Anatomía": "Anatomía",
     "Angiología": "Angiología",
-    "Antropología": "Antropología",
-    "Antropotomía": "Antropotomía",
     "Aritmética": "Aritmética",
     "Armamento": "Armas",
     "Arqueología": "Arqueología",
     "Arquitectura": "Arquitectura",
     "Arte": "Arte",
     "Artes": "Arte",
-    "Artes marciales": "Artes marciales",
     "Astrofísica": "Astrofísica",
     "Astrología": "Astrología",
     "Astronomía": "Astronomía",
@@ -183,12 +174,10 @@ campos_semanticos = {
     "agricultura": "Agricultura",
     "ajedrez": "Ajedrez",
     "algas": "Ficología",
-    "alimento": "Gastronomía",
     "alimentos": "Gastronomía",
     "alpinismo": "Alpinismo",
     "alquimia": "Alquimia",
     "anatomía": "Anatomía",
-    "anfibio": "Zoología",
     "anfibios": "Zoología",
     "angiología": "Angiología",
     "animales": "Zoología",
@@ -493,5 +482,5 @@ campos_semanticos = {
     "árboles": "Botánica",
     "ética": "Ética",
     "óptica": "Óptica",
-}  # 488
+}  # 477
 # END
