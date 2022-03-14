@@ -9,7 +9,6 @@ regions = {
     "AD": "Andorre",
     "AE": "Émirats arabes unis",
     "AM": "Amérique latine",
-    "AR": "Argentine",
     "AT": "Autriche",
     "AU": "Australie",
     "AUS": "Australie",
@@ -31,14 +30,8 @@ regions = {
     "Angers": "Angers",
     "Angleterre": "Angleterre",
     "Anjou": "Anjou",
-    "Antilles": "Antilles",
-    "Aquitaine": "Aquitaine",
-    "Ardennes": "Ardennes",
-    "Ardèche": "Ardèche",
-    "Argentine": "Argentine",
     "Asie": "Asie",
     "Asie centrale": "Asie centrale",
-    "Aube": "Aube",
     "Australie": "Australie",
     "Autriche": "Autriche",
     "Autunois": "Autunois",
@@ -433,7 +426,7 @@ regions = {
     "Île-de-France": "Île-de-France",
     "Îles d’Aran": "Îles d'Aran",
     "Îles-de-la-Madeleine": "Îles-de-la-Madeleine",
-}  # 428
+}  # 421
 # END
 
 # handled differently
